@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/quad/MAVSDK/tutorial/1-getsystem/getsystem.cpp
+chrono
+-
+cstdint
+-
+mavsdk/mavsdk.h
+-
+iostream
+-
+future
+-
+memory
+-
+thread
+-
+

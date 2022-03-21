@@ -1,0 +1,3 @@
+/home/quad/MAVSDK/tutorial/1-getsystem/build/CMakeFiles/rebuild_cache.dir
+/home/quad/MAVSDK/tutorial/1-getsystem/build/CMakeFiles/edit_cache.dir
+/home/quad/MAVSDK/tutorial/1-getsystem/build/CMakeFiles/getsystem.dir

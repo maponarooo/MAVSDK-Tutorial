@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/getsystem.dir/getsystem.cpp.o -o getsystem  /usr/lib/libmavsdk.so.1.0.8 
